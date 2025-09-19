@@ -15,7 +15,7 @@ Optimisation:
 
 Après optimisation:
 docker build --no-cache -t test .
-Building 20.2s
+Building 15.3s
 docker images
 test        253MB
 
